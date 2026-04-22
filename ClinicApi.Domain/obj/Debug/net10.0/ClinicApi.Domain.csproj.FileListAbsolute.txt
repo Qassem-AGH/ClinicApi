@@ -1,0 +1,11 @@
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Domain\bin\Debug\net10.0\ClinicApi.Domain.deps.json
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Domain\bin\Debug\net10.0\ClinicApi.Domain.dll
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Domain\bin\Debug\net10.0\ClinicApi.Domain.pdb
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Domain\obj\Debug\net10.0\ClinicApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Domain\obj\Debug\net10.0\ClinicApi.Domain.AssemblyInfoInputs.cache
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Domain\obj\Debug\net10.0\ClinicApi.Domain.AssemblyInfo.cs
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Domain\obj\Debug\net10.0\ClinicApi.Domain.csproj.CoreCompileInputs.cache
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Domain\obj\Debug\net10.0\ClinicApi.Domain.dll
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Domain\obj\Debug\net10.0\refint\ClinicApi.Domain.dll
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Domain\obj\Debug\net10.0\ClinicApi.Domain.pdb
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Domain\obj\Debug\net10.0\ref\ClinicApi.Domain.dll

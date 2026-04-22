@@ -1,0 +1,15 @@
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Application\bin\Debug\net10.0\ClinicApi.Application.deps.json
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Application\bin\Debug\net10.0\ClinicApi.Application.dll
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Application\bin\Debug\net10.0\ClinicApi.Application.pdb
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Application\bin\Debug\net10.0\ClinicApi.Domain.dll
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Application\bin\Debug\net10.0\ClinicApi.Domain.pdb
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Application\obj\Debug\net10.0\ClinicApi.Application.csproj.AssemblyReference.cache
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Application\obj\Debug\net10.0\ClinicApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Application\obj\Debug\net10.0\ClinicApi.Application.AssemblyInfoInputs.cache
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Application\obj\Debug\net10.0\ClinicApi.Application.AssemblyInfo.cs
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Application\obj\Debug\net10.0\ClinicApi.Application.csproj.CoreCompileInputs.cache
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Application\obj\Debug\net10.0\ClinicAp.EFEA2873.Up2Date
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Application\obj\Debug\net10.0\ClinicApi.Application.dll
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Application\obj\Debug\net10.0\refint\ClinicApi.Application.dll
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Application\obj\Debug\net10.0\ClinicApi.Application.pdb
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Application\obj\Debug\net10.0\ref\ClinicApi.Application.dll

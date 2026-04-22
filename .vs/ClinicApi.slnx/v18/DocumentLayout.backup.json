@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0FEA55-C03B-F351-0811-D99F4CA65D0B}|ClinicApi.Application\\ClinicApi.Application.csproj|d:\\kusr 7 webbapplikationer\\inl\u00E4mningsuppgift 1 - clean architecture\\clinicapi\\clinicapi.application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0FEA55-C03B-F351-0811-D99F4CA65D0B}|ClinicApi.Application\\ClinicApi.Application.csproj|solutionrelative:clinicapi.application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0FEA55-C03B-F351-0811-D99F4CA65D0B}|ClinicApi.Application\\ClinicApi.Application.csproj|d:\\kusr 7 webbapplikationer\\inl\u00E4mningsuppgift 1 - clean architecture\\clinicapi\\clinicapi.application\\features\\patients\\commands\\deletepatient\\deletepatienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0FEA55-C03B-F351-0811-D99F4CA65D0B}|ClinicApi.Application\\ClinicApi.Application.csproj|solutionrelative:clinicapi.application\\features\\patients\\commands\\deletepatient\\deletepatienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0FEA55-C03B-F351-0811-D99F4CA65D0B}|ClinicApi.Application\\ClinicApi.Application.csproj|d:\\kusr 7 webbapplikationer\\inl\u00E4mningsuppgift 1 - clean architecture\\clinicapi\\clinicapi.application\\features\\doctors\\commands\\updatedoctor\\updatedoctorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0FEA55-C03B-F351-0811-D99F4CA65D0B}|ClinicApi.Application\\ClinicApi.Application.csproj|solutionrelative:clinicapi.application\\features\\doctors\\commands\\updatedoctor\\updatedoctorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0FEA55-C03B-F351-0811-D99F4CA65D0B}|ClinicApi.Application\\ClinicApi.Application.csproj|d:\\kusr 7 webbapplikationer\\inl\u00E4mningsuppgift 1 - clean architecture\\clinicapi\\clinicapi.application\\features\\doctors\\commands\\deletedoctor\\deletedoctorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0FEA55-C03B-F351-0811-D99F4CA65D0B}|ClinicApi.Application\\ClinicApi.Application.csproj|solutionrelative:clinicapi.application\\features\\doctors\\commands\\deletedoctor\\deletedoctorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0FEA55-C03B-F351-0811-D99F4CA65D0B}|ClinicApi.Application\\ClinicApi.Application.csproj|d:\\kusr 7 webbapplikationer\\inl\u00E4mningsuppgift 1 - clean architecture\\clinicapi\\clinicapi.application\\features\\doctors\\commands\\deletedoctor\\deletedoctorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0FEA55-C03B-F351-0811-D99F4CA65D0B}|ClinicApi.Application\\ClinicApi.Application.csproj|solutionrelative:clinicapi.application\\features\\doctors\\commands\\deletedoctor\\deletedoctorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0FEA55-C03B-F351-0811-D99F4CA65D0B}|ClinicApi.Application\\ClinicApi.Application.csproj|d:\\kusr 7 webbapplikationer\\inl\u00E4mningsuppgift 1 - clean architecture\\clinicapi\\clinicapi.application\\features\\doctors\\commands\\createdoctor\\createdoctorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0FEA55-C03B-F351-0811-D99F4CA65D0B}|ClinicApi.Application\\ClinicApi.Application.csproj|solutionrelative:clinicapi.application\\features\\doctors\\commands\\createdoctor\\createdoctorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0FEA55-C03B-F351-0811-D99F4CA65D0B}|ClinicApi.Application\\ClinicApi.Application.csproj|d:\\kusr 7 webbapplikationer\\inl\u00E4mningsuppgift 1 - clean architecture\\clinicapi\\clinicapi.application\\features\\doctors\\commands\\createdoctor\\createdoctorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0FEA55-C03B-F351-0811-D99F4CA65D0B}|ClinicApi.Application\\ClinicApi.Application.csproj|solutionrelative:clinicapi.application\\features\\doctors\\commands\\createdoctor\\createdoctorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0FEA55-C03B-F351-0811-D99F4CA65D0B}|ClinicApi.Application\\ClinicApi.Application.csproj|d:\\kusr 7 webbapplikationer\\inl\u00E4mningsuppgift 1 - clean architecture\\clinicapi\\clinicapi.application\\features\\doctors\\queries\\getalldoctors\\getalldoctorshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0FEA55-C03B-F351-0811-D99F4CA65D0B}|ClinicApi.Application\\ClinicApi.Application.csproj|solutionrelative:clinicapi.application\\features\\doctors\\queries\\getalldoctors\\getalldoctorshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243C8A65-A5BA-F772-6CFA-29209F0B9E3E}|ClinicApi.Domain\\ClinicApi.Domain.csproj|d:\\kusr 7 webbapplikationer\\inl\u00E4mningsuppgift 1 - clean architecture\\clinicapi\\clinicapi.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243C8A65-A5BA-F772-6CFA-29209F0B9E3E}|ClinicApi.Domain\\ClinicApi.Domain.csproj|solutionrelative:clinicapi.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243C8A65-A5BA-F772-6CFA-29209F0B9E3E}|ClinicApi.Domain\\ClinicApi.Domain.csproj|d:\\kusr 7 webbapplikationer\\inl\u00E4mningsuppgift 1 - clean architecture\\clinicapi\\clinicapi.domain\\enums\\appointmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243C8A65-A5BA-F772-6CFA-29209F0B9E3E}|ClinicApi.Domain\\ClinicApi.Domain.csproj|solutionrelative:clinicapi.domain\\enums\\appointmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A5E18-813F-A2C0-EA03-CDAAE507A9D3}|ClinicApi.Infrastructure\\ClinicApi.Infrastructure.csproj|d:\\kusr 7 webbapplikationer\\inl\u00E4mningsuppgift 1 - clean architecture\\clinicapi\\clinicapi.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A5E18-813F-A2C0-EA03-CDAAE507A9D3}|ClinicApi.Infrastructure\\ClinicApi.Infrastructure.csproj|solutionrelative:clinicapi.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A5E18-813F-A2C0-EA03-CDAAE507A9D3}|ClinicApi.Infrastructure\\ClinicApi.Infrastructure.csproj|d:\\kusr 7 webbapplikationer\\inl\u00E4mningsuppgift 1 - clean architecture\\clinicapi\\clinicapi.infrastructure\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A5E18-813F-A2C0-EA03-CDAAE507A9D3}|ClinicApi.Infrastructure\\ClinicApi.Infrastructure.csproj|solutionrelative:clinicapi.infrastructure\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A5E18-813F-A2C0-EA03-CDAAE507A9D3}|ClinicApi.Infrastructure\\ClinicApi.Infrastructure.csproj|d:\\kusr 7 webbapplikationer\\inl\u00E4mningsuppgift 1 - clean architecture\\clinicapi\\clinicapi.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A5E18-813F-A2C0-EA03-CDAAE507A9D3}|ClinicApi.Infrastructure\\ClinicApi.Infrastructure.csproj|solutionrelative:clinicapi.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A5E18-813F-A2C0-EA03-CDAAE507A9D3}|ClinicApi.Infrastructure\\ClinicApi.Infrastructure.csproj|d:\\kusr 7 webbapplikationer\\inl\u00E4mningsuppgift 1 - clean architecture\\clinicapi\\clinicapi.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A5E18-813F-A2C0-EA03-CDAAE507A9D3}|ClinicApi.Infrastructure\\ClinicApi.Infrastructure.csproj|solutionrelative:clinicapi.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0FEA55-C03B-F351-0811-D99F4CA65D0B}|ClinicApi.Application\\ClinicApi.Application.csproj|d:\\kusr 7 webbapplikationer\\inl\u00E4mningsuppgift 1 - clean architecture\\clinicapi\\clinicapi.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0FEA55-C03B-F351-0811-D99F4CA65D0B}|ClinicApi.Application\\ClinicApi.Application.csproj|solutionrelative:clinicapi.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0FEA55-C03B-F351-0811-D99F4CA65D0B}|ClinicApi.Application\\ClinicApi.Application.csproj|d:\\kusr 7 webbapplikationer\\inl\u00E4mningsuppgift 1 - clean architecture\\clinicapi\\clinicapi.application\\features\\doctors\\queries\\getalldoctors\\getalldoctorsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0FEA55-C03B-F351-0811-D99F4CA65D0B}|ClinicApi.Application\\ClinicApi.Application.csproj|solutionrelative:clinicapi.application\\features\\doctors\\queries\\getalldoctors\\getalldoctorsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Application\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "ClinicApi.Application\\DTOs\\RegisterDto.cs",
+              "ToolTip": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Application\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "ClinicApi.Application\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:51:23.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeletePatientHandler.cs",
+              "DocumentMoniker": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Application\\Features\\Patients\\Commands\\DeletePatient\\DeletePatientHandler.cs",
+              "RelativeDocumentMoniker": "ClinicApi.Application\\Features\\Patients\\Commands\\DeletePatient\\DeletePatientHandler.cs",
+              "ToolTip": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Application\\Features\\Patients\\Commands\\DeletePatient\\DeletePatientHandler.cs",
+              "RelativeToolTip": "ClinicApi.Application\\Features\\Patients\\Commands\\DeletePatient\\DeletePatientHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:00:17.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateDoctorHandler.cs",
+              "DocumentMoniker": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Application\\Features\\Doctors\\Commands\\UpdateDoctor\\UpdateDoctorHandler.cs",
+              "RelativeDocumentMoniker": "ClinicApi.Application\\Features\\Doctors\\Commands\\UpdateDoctor\\UpdateDoctorHandler.cs",
+              "ToolTip": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Application\\Features\\Doctors\\Commands\\UpdateDoctor\\UpdateDoctorHandler.cs",
+              "RelativeToolTip": "ClinicApi.Application\\Features\\Doctors\\Commands\\UpdateDoctor\\UpdateDoctorHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:55:18.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteDoctorHandler.cs",
+              "DocumentMoniker": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Application\\Features\\Doctors\\Commands\\DeleteDoctor\\DeleteDoctorHandler.cs",
+              "RelativeDocumentMoniker": "ClinicApi.Application\\Features\\Doctors\\Commands\\DeleteDoctor\\DeleteDoctorHandler.cs",
+              "ToolTip": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Application\\Features\\Doctors\\Commands\\DeleteDoctor\\DeleteDoctorHandler.cs",
+              "RelativeToolTip": "ClinicApi.Application\\Features\\Doctors\\Commands\\DeleteDoctor\\DeleteDoctorHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:55:55.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteDoctorCommand.cs",
+              "DocumentMoniker": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Application\\Features\\Doctors\\Commands\\DeleteDoctor\\DeleteDoctorCommand.cs",
+              "RelativeDocumentMoniker": "ClinicApi.Application\\Features\\Doctors\\Commands\\DeleteDoctor\\DeleteDoctorCommand.cs",
+              "ToolTip": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Application\\Features\\Doctors\\Commands\\DeleteDoctor\\DeleteDoctorCommand.cs",
+              "RelativeToolTip": "ClinicApi.Application\\Features\\Doctors\\Commands\\DeleteDoctor\\DeleteDoctorCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:55:44.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateDoctorHandler.cs",
+              "DocumentMoniker": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Application\\Features\\Doctors\\Commands\\CreateDoctor\\CreateDoctorHandler.cs",
+              "RelativeDocumentMoniker": "ClinicApi.Application\\Features\\Doctors\\Commands\\CreateDoctor\\CreateDoctorHandler.cs",
+              "ToolTip": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Application\\Features\\Doctors\\Commands\\CreateDoctor\\CreateDoctorHandler.cs",
+              "RelativeToolTip": "ClinicApi.Application\\Features\\Doctors\\Commands\\CreateDoctor\\CreateDoctorHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:54:38.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateDoctorCommand.cs",
+              "DocumentMoniker": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Application\\Features\\Doctors\\Commands\\CreateDoctor\\CreateDoctorCommand.cs",
+              "RelativeDocumentMoniker": "ClinicApi.Application\\Features\\Doctors\\Commands\\CreateDoctor\\CreateDoctorCommand.cs",
+              "ToolTip": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Application\\Features\\Doctors\\Commands\\CreateDoctor\\CreateDoctorCommand.cs",
+              "RelativeToolTip": "ClinicApi.Application\\Features\\Doctors\\Commands\\CreateDoctor\\CreateDoctorCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:54:20.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAllDoctorsHandler.cs",
+              "DocumentMoniker": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Application\\Features\\Doctors\\Queries\\GetAllDoctors\\GetAllDoctorsHandler.cs",
+              "RelativeDocumentMoniker": "ClinicApi.Application\\Features\\Doctors\\Queries\\GetAllDoctors\\GetAllDoctorsHandler.cs",
+              "ToolTip": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Application\\Features\\Doctors\\Queries\\GetAllDoctors\\GetAllDoctorsHandler.cs",
+              "RelativeToolTip": "ClinicApi.Application\\Features\\Doctors\\Queries\\GetAllDoctors\\GetAllDoctorsHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:53:50.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "ClinicApi.Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "ClinicApi.Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:47:07.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppointmentStatus.cs",
+              "DocumentMoniker": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Domain\\Enums\\AppointmentStatus.cs",
+              "RelativeDocumentMoniker": "ClinicApi.Domain\\Enums\\AppointmentStatus.cs",
+              "ToolTip": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Domain\\Enums\\AppointmentStatus.cs",
+              "RelativeToolTip": "ClinicApi.Domain\\Enums\\AppointmentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:44:34.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Infrastructure\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "ClinicApi.Infrastructure\\Services\\TokenService.cs",
+              "ToolTip": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Infrastructure\\Services\\TokenService.cs",
+              "RelativeToolTip": "ClinicApi.Infrastructure\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:07:09.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "ClinicApi.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "ClinicApi.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:06:43.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "ClinicApi.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "ClinicApi.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:06:20.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ClinicApi.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ClinicApi.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:05:58.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "ClinicApi.Application\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "ClinicApi.Application\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:04:59.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetAllDoctorsQuery.cs",
+              "DocumentMoniker": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Application\\Features\\Doctors\\Queries\\GetAllDoctors\\GetAllDoctorsQuery.cs",
+              "RelativeDocumentMoniker": "ClinicApi.Application\\Features\\Doctors\\Queries\\GetAllDoctors\\GetAllDoctorsQuery.cs",
+              "ToolTip": "D:\\Kusr 7 Webbapplikationer\\Inl\u00E4mningsuppgift 1 - Clean Architecture\\ClinicApi\\ClinicApi.Application\\Features\\Doctors\\Queries\\GetAllDoctors\\GetAllDoctorsQuery.cs",
+              "RelativeToolTip": "ClinicApi.Application\\Features\\Doctors\\Queries\\GetAllDoctors\\GetAllDoctorsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:53:17.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ed7d6f85-175b-4b57-9887-71fe8b865fc8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 83,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
