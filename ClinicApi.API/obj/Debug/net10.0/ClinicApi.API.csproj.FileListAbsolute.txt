@@ -171,3 +171,5 @@ D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\
 D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.API\obj\Debug\net10.0\ClinicApi.API.pdb
 D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.API\obj\Debug\net10.0\ClinicApi.API.genruntimeconfig.cache
 D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.API\obj\Debug\net10.0\ref\ClinicApi.API.dll
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.API\obj\Debug\net10.0\ClinicApi.API.sourcelink.json
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.API\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
