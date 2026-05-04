@@ -17,3 +17,4 @@ D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\
 D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Infrastructure\obj\Debug\net10.0\ClinicApi.Infrastructure.pdb
 D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Infrastructure\obj\Debug\net10.0\ClinicApi.Infrastructure.genruntimeconfig.cache
 D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Infrastructure\obj\Debug\net10.0\ref\ClinicApi.Infrastructure.dll
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Infrastructure\obj\Debug\net10.0\ClinicApi.Infrastructure.sourcelink.json

@@ -13,3 +13,4 @@ D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\
 D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Application\obj\Debug\net10.0\refint\ClinicApi.Application.dll
 D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Application\obj\Debug\net10.0\ClinicApi.Application.pdb
 D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Application\obj\Debug\net10.0\ref\ClinicApi.Application.dll
+D:\Kusr 7 Webbapplikationer\Inlämningsuppgift 1 - Clean Architecture\ClinicApi\ClinicApi.Application\obj\Debug\net10.0\ClinicApi.Application.sourcelink.json
